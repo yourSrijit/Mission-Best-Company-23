@@ -1,0 +1,24 @@
+KPIT QUESTION  🛑🛑🛑🛑
+========================
+
+Tell me about yourself
+Why KPIT
+1.Projects
+2.What is iot ans iiot ?
+3.Microprocessor register non maskable
+4.Probability Permutation Dies
+5.Roll in your project
+6.malloc() & calloc()
+7.Flip flop
+8.
+
+
+
+
+
+
+->Why KPIT ?
+I chose KPIT because it is a leading global company that excels in manufacturing energy-efficient cars. I am passionate about contributing to sustainability and innovation in the automobile industry, and KPIT's commitment to creating power-saving and efficient vehicles aligns perfectly with my goals. I believe my skills and aspirations align well with the company's vision, making it an ideal place for me to grow and make a positive impact.
+
+->What is Embeded System ?
+Embedded Systems are the computer system which acts as dedicated part of the whole system of electrical or mechanical systems. Embedded systems are the systems which are assembled using the micro-controllers and microprocessors which have a definite function which is required to drive a new system or update a system which includes real-time computing constraints. A processor used in the embedded system is the Heart of the whole system as it governs the complete system designed. Lets have a look over the different questions asked on Embedded systems with answers-
