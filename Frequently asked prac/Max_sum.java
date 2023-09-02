@@ -1,3 +1,4 @@
+// Given an array .Your task is to find the maximum of sum of the arrsy of the subarray and return the maximum sum :)
 public class Max_sum {
     public static int findMaxSum(int arr[]){
         int maxsofar=Integer.MIN_VALUE;
