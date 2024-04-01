@@ -19,7 +19,7 @@ public class Max_sum {
 }
 
 
-*Leetcode*
+
 // class Solution {
 //     public int maxSubArray(int[] nums) {
 //         int curSum = nums[0];
