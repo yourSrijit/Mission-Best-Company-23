@@ -1,4 +1,4 @@
-/*
+package TCS_NQT24.Ninja;/*
 A party has been organised on cruise. The party is organised for a limited time(T). The number of guests entering (E[i]) and leaving (L[i]) the party at every hour is represented as elements of the array. The task is to find the maximum number of guests present on the cruise at any given instance within T hours.
 
 Example 1:

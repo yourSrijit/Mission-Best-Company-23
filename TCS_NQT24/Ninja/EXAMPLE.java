@@ -1,4 +1,5 @@
-package TCS_NQT24;
+package TCS_NQT24.Ninja;
 
 public class EXAMPLE {
+
 }
