@@ -2,6 +2,7 @@ package TCS_NQT24.Digital;
 
 public class Q11_MonkeyEat {
 }
+
 /*
 C++ Solution ✅✅
 #include <bits/stdc++.h>
@@ -31,9 +32,6 @@ int main()
     }
     return 0;
 }
-
-
-
 
  */
 /*

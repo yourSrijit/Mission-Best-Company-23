@@ -15,7 +15,7 @@ public class Q10_LongestSubstringWithoutRepeatingChar {
                 map.put(s.charAt(i), map.getOrDefault(s.charAt(i), 0) + 1);
             cur += s.charAt(i);
             if (max.length() < cur.length()) {
-                max = cur;
+//                max = cur;
             }
         }
         return max.length();
