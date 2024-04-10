@@ -5,17 +5,20 @@ import java.util.*;
 
 public class Q10_LongestSubstringWithoutRepeatingChar {
     public static int findMaxChar(String s) {
+        String max = "", cur = "";
         Map<Character, Integer> map = new HashMap<>();
-        int ans = 0;
+
         for (int i = 0; i < s.length(); i++) {
-            if (!map.containsKey(s.charAt(i))) {
+            if (map.containsKey(s.charAt(i))) {
+                cur = "";
+            }
                 map.put(s.charAt(i), map.getOrDefault(s.charAt(i), 0) + 1);
-                ans++;
-            } else {
-                break;
+            cur += s.charAt(i);
+            if (max.length() < cur.length()) {
+                max = cur;
             }
         }
-        return ans;
+        return max.length();
     }
 
     public static void main(String[] args) {
