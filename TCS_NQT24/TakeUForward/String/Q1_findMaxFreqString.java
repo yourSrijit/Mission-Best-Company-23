@@ -1,4 +1,4 @@
-package TCS_NQT24.TakeUForward;
+package TCS_NQT24.TakeUForward.String;
 
 import java.util.*;
 
