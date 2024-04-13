@@ -1,9 +1,11 @@
 package TCS_NQT24.Ninja;
 
 import java.util.*;
+
 public class Ex1 {
   public static void main(String[] args) {
   Scanner sc =new Scanner(System.in);
+
     System.out.print("srijit");
     int n=sc.nextInt();
     int w=sc.nextInt();
