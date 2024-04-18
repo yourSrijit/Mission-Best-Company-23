@@ -2,7 +2,7 @@ package TCS_NQT24.Digital;
 
 import java.util.*;
 
-public class Q_18_SingleDigitSum {
+public class Q18_SingleDigitSum {
     public static int Sum(int n) {
         int sum = 0;
         while (n > 0) {
