@@ -19,6 +19,4 @@ Contributions to this repository are welcome! If you have encountered new DSA qu
 
 The questions and solutions provided in this repository are based on community-contributed knowledge and may not fully represent the actual questions asked in interviews. However, they aim to provide a comprehensive understanding of common DSA topics and help you prepare for technical interviews at various MNCs.
 
-## License
-
 
